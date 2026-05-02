@@ -1,0 +1,5 @@
+﻿metric,W9_style_optical_only_same_AOI,W10_fused_same_AOI,improvement,note
+Total detected flood area (km2),0.4074,0.4462,0.0388,Optical-only baseline recalculated within the Week10 AOI for apples-to-apples comparison.
+Cloud-covered area analyzed (km2),0.0,0.0388,0.0388,Only the fused workflow can retain flood evidence inside cloudy pixels.
+Topographic false positives removed (km2),0.0,1.363,1.363,The slope audit only applies to SAR-supported detections.
+Evidence scheme,Optical water mask only,4-class fused map,Cloud-aware + topographic audit,Original HW9 full-study totals remain in data/week9_confidence_area_stats.csv; this table uses a same-AOI recalculation.

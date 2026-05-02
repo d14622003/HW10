@@ -1,0 +1,12 @@
+﻿metric,value
+Final SAR threshold (dB),-14.0
+Strict comparison threshold (dB),-18.0
+Median filter kernel,5x5
+Minimum connected pixels,50
+Raw thresholded area (ha),161.377
+Final cleaned flood area (ha),140.365
+Final cleaned flood area (km2),1.4037
+Final water pixels,14035
+Mean flood-zone backscatter (dB),-17.999
+Connected regions kept,43
+Connected regions found,97

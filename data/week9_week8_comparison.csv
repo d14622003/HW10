@@ -1,0 +1,4 @@
+﻿Layer,W8 Finding,W9 Validated Finding,Agreement,Notes
+Vegetation Impact,Visual/NIR change suggested damaged vegetation and disturbed slopes,Delta NDVI threshold -0.05; high confidence area 94.59 km2,Y,W9 validates the direction of W8 change and quantifies accuracy.
+Water Inundation,Barrier lake area about 0.9149553861475351 km2,Delta NDWI water-change screen area 73.44 km2; validation PA 86.7%,Y,W9 confirms water signal but adds cloud masking and validation points.
+Debris Field,Debris area about 26.41199883081185 km2; Guangfu hits 1,Post-Pre BSI positive-change screen area 27.42 km2,Partial,"W9 BSI supports exposed-soil/debris interpretation, but debris requires more field-specific validation."

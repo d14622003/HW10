@@ -1,0 +1,5 @@
+﻿stage,pixel_count,area_ha
+Raw threshold (-14 dB),16136,161.377
+After morphological opening,15322,153.237
+Final cleaned (50 px minimum),14035,140.365
+Strict threshold (-18 dB),6357,63.577

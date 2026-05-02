@@ -1,0 +1,4 @@
+﻿slope_class,pixel_count_removed,area_km2_removed,note
+25-35 deg,895,0.0895,SAR support removed from steep terrain before recomputing the fused map.
+35-45 deg,3483,0.3483,SAR support removed from steep terrain before recomputing the fused map.
+>45 deg,9251,0.9252,SAR support removed from steep terrain before recomputing the fused map.

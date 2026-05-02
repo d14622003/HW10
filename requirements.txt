@@ -1,0 +1,29 @@
+# Week 10 - ARIA v7.0 All-Weather Auditor
+
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+
+# Geospatial / raster processing
+rasterio>=1.3.0
+pyproj>=3.6.0
+geopandas>=1.1.0
+shapely>=2.0.0
+xarray>=2024.0.0
+rioxarray>=0.15.0
+
+# STAC / Planetary Computer
+pystac>=1.10.0
+pystac-client>=0.8.0
+planetary-computer>=1.0.0
+stackstac>=0.5.0
+requests>=2.31.0
+
+# Notebook / configuration
+ipython>=8.0.0
+jupyter>=1.0.0
+python-dotenv>=1.0.0
+nbformat>=5.10.0
+nbclient>=0.10.0
+nbconvert>=7.17.0
